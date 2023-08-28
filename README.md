@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="" target="blank"><img src="" width="200" alt="Nest Logo" /></a>
+  <a href="" target="blank"><img src="https://github.com/GarretTomlin/NoteMystic/blob/main/docs/logo.png" width="200" alt="Nest Logo" /></a>
 </p>
 
 
@@ -18,16 +18,12 @@ Welcome to NoteMystic - where collaborative note-sharing meets the imaginative s
 
 
 ### Features
--[] Collaborative Notes: Share and build ideas in real-time with friends, colleagues, and study groups.
+- [ ] Collaborative Notes: Share and build ideas in real-time with friends, colleagues, and study groups.
 
--[] Group Communication: Discuss, question, and brainstorm within your notes, fostering productive teamwork.
+- [ ] Group Communication: Discuss, question, and brainstorm within your notes, fostering productive teamwork.
 
--[] Gyarados-Themed: Immerse yourself in creativity with our inspiring Gyarados-themed interface.
+- [ ] Gyarados-Themed: Immerse yourself in creativity with our inspiring Gyarados-themed interface.
 
--[] Cloud Sync: Access notes anywhere, on any device, with secure cloud storage.
+- [ ] Cloud Sync: Access notes anywhere, on any device, with secure cloud storage.
 
--[] Organize with Ease: Find and manage notes effortlessly with tags, folders, and search.
-
-
-### About Gyarados
-Gyarados represents growth and transformation. Like it evolves from Magikarp, NoteMystic evolves your ideas through collaboration. Our app's magic mirrors Gyarados' mystique.
+- [ ] Organize with Ease: Find and manage notes effortlessly with tags, folders, and search.
