@@ -42,6 +42,12 @@ defmodule MysticnotesWeb.Endpoint do
     pass: ["*/*"],
     json_decoder: Phoenix.json_library()
 
+  plug Corsica,
+    origins: "*",
+    allow_headers: "Authorization, Content-Type",
+    allow_methods: "GET, POST, PUT, DELETE, OPTIONS",
+    max_age: 600
+
   plug Plug.MethodOverride
   plug Plug.Head
   plug Plug.Session, @session_options
